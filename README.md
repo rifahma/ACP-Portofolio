@@ -6,4 +6,5 @@ Steps that I follow to make the ACP server works as a senior insurance agent (AC
 3. Calling an ACP Agent using the Client; after setting up the ACP server as a policy agent in an insurance company, now we can interact with the ACP Agent by sending requests from ACP client
 4. Creating the hospital server using Smolagents
 5. Connect insurer and hospital agents together by making LLM chains so they can interact then answer some of our questions
-6. (Will update soon!)
+6. Make a hierarchical workflow with ACPCallingAgent and AgentCollection to let the agents choose and call which the best servers
+7. (Will update soon)
